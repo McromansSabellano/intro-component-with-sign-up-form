@@ -15,3 +15,7 @@ body {
     background-color: var(--primary-color-red);
     background-image: url(../images/bg-intro-desktop.png);
 }
+
+#text-container {
+    color: white;
+}
