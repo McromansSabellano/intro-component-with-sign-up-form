@@ -16,6 +16,6 @@ body {
     background-image: url(../images/bg-intro-desktop.png);
 }
 
-#text-container {
+#text-container, #trial-text-container {
     color: white;
 }
